@@ -1,0 +1,78 @@
+.idea/
+
+/backend/.env
+
+/frontend/.next
+/frontend/node_modules
+
+/backend/venv
+
+# Logs
+/backend/logs
+/backend/*.log
+/backend/npm-debug.log*
+/backend/yarn-debug.log*
+/backend/yarn-error.log*
+/backend/lerna-debug.log*
+
+# OS files
+/backend/.DS_Store
+/backend/Thumbs.db
+
+# IDE files
+/backend/.idea/
+/backend/.vscode/
+/backend/*.sublime-project
+/backend/*.sublime-workspace
+
+# Ignore all __pycache__ directories
+/backend/__pycache__/
+/backend/**/__pycache__/
+
+# Other files and directories to ignore
+/backend/*.pyc
+/backend/*.pyo
+/backend/*.pyd
+/backend/*.sqlite3
+/backend/.DS_Store
+
+# Ignore virtual environment directories
+/backend/venv/
+/backend/env/
+/backend/ENV/
+/backend/.venv/
+/backend/.env/
+
+# Ignore lib folder
+/backend/lib/
+
+# Ignore build directories
+/backend/build/
+/backend/dist/
+/backend/*.egg-info/
+
+# Ignore Selenium and WebDriver files
+/backend/selenium/
+/backend/webdriver/
+
+# Ignore Jupyter Notebook checkpoints
+/backend/.ipynb_checkpoints/
+
+# Ignore coverage reports
+/backend/htmlcov/
+/backend/.coverage
+/backend/.coverage.*
+
+# Ignore pytest cache
+/backend/.pytest_cache/
+
+# Ignore mypy cache
+/backend/.mypy_cache/
+
+# Ignore temporary files
+/backend/*.tmp
+/backend/*.temp
+/backend/*.swp
+/backend/*.swo
+/backend/*~
+/backend/Scripts/*

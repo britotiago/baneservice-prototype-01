@@ -1,0 +1,100 @@
+{
+  "credit_summary": [
+    {
+      "assessment_criteria_id": "1.2.1",
+      "assessment_criteria_name": "Environmental impacts and benefits assessment",
+      "type": "fixed",
+      "strategy": 8,
+      "design": null,
+      "construction": null
+    },
+    {
+      "assessment_criteria_id": "1.2.2",
+      "assessment_criteria_name": "Implementing environmental enhancements",
+      "type": null,
+      "strategy": "up to 24",
+      "design": null,
+      "construction": null
+    },
+    {
+      "assessment_criteria_id": "1.2.3",
+      "assessment_criteria_name": "Supporting environmental benefits in contracts",
+      "type": null,
+      "strategy": 8,
+      "design": null,
+      "construction": null
+    },
+    {
+      "assessment_criteria_id": "1.2.4",
+      "assessment_criteria_name": "Environmental impacts during construction",
+      "type": "fixed",
+      "strategy": null,
+      "design": null,
+      "construction": "up to 25"
+    },
+    {
+      "assessment_criteria_id": "1.2.5",
+      "assessment_criteria_name": "Environmental and social aspects assessment",
+      "type": "fixed",
+      "strategy": 8,
+      "design": 4,
+      "construction": 4
+    },
+    {
+      "assessment_criteria_id": "1.2.6",
+      "assessment_criteria_name": "Co-ordination of environment and social aspects",
+      "type": "fixed",
+      "strategy": 8,
+      "design": 8,
+      "construction": 8
+    },
+    {
+      "assessment_criteria_id": "1.2.7",
+      "assessment_criteria_name": "Identification and prioritisation of impacts",
+      "type": "fixed",
+      "strategy": "up to 13",
+      "design": "up to 13",
+      "construction": "up to 13"
+    },
+    {
+      "assessment_criteria_id": "1.2.8",
+      "assessment_criteria_name": "Sustainability management mechanisms",
+      "type": "fixed",
+      "strategy": 4,
+      "design": 8,
+      "construction": 8
+    },
+    {
+      "assessment_criteria_id": "1.2.9",
+      "assessment_criteria_name": "Implementation of mechanisms",
+      "type": "fixed",
+      "strategy": 4,
+      "design": 8,
+      "construction": 8
+    },
+    {
+      "assessment_criteria_id": "1.2.10",
+      "assessment_criteria_name": "Success of the mechanisms",
+      "type": "fixed",
+      "strategy": 4,
+      "design": 8,
+      "construction": 8
+    },
+    {
+      "assessment_criteria_id": "1.2.11",
+      "assessment_criteria_name": "Sustainability training",
+      "type": "fixed",
+      "strategy": 10,
+      "design": 10,
+      "construction": 10
+    },
+    {
+      "assessment_criteria_id": "1.2.12",
+      "assessment_criteria_name": "Project team communications",
+      "type": "fixed",
+      "strategy": 4,
+      "design": 8,
+      "construction": 8
+    }
+  ]
+}

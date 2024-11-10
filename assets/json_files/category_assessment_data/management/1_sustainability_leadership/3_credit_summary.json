@@ -1,0 +1,76 @@
+{
+  "credit_summary": [
+    {
+      "assessment_criteria_id": "1.1.1",
+      "assessment_criteria_name": "Principles of sustainable development",
+      "type": "fixed",
+      "strategy": 19,
+      "design": 12,
+      "construction": 4
+    },
+    {
+      "assessment_criteria_id": "1.1.2",
+      "assessment_criteria_name": "Construction management strategy",
+      "type": "fixed",
+      "strategy": null,
+      "design": 5,
+      "construction": 6
+    },
+    {
+      "assessment_criteria_id": "1.1.3",
+      "assessment_criteria_name": "Selection process for designers and contractors",
+      "type": null,
+      "strategy": "shared up to 24",
+      "design": "shared up to 24",
+      "construction": 12
+    },
+    {
+      "assessment_criteria_id": "1.1.4",
+      "assessment_criteria_name": "Environmental and social performance in contracts",
+      "type": "fixed",
+      "strategy": 20,
+      "design": null,
+      "construction": null
+    },
+    {
+      "assessment_criteria_id": "1.1.5",
+      "assessment_criteria_name": "Sustainability targets for construction",
+      "type": "fixed",
+      "strategy": null,
+      "design": "shared up to 12",
+      "construction": "shared up to 12"
+    },
+    {
+      "assessment_criteria_id": "1.1.6",
+      "assessment_criteria_name": "Environmental targets for key sub-contractors",
+      "type": null,
+      "strategy": null,
+      "design": null,
+      "construction": "up to 12"
+    },
+    {
+      "assessment_criteria_id": "1.1.7",
+      "assessment_criteria_name": "Sustainability targets for operation",
+      "type": null,
+      "strategy": "shared 16",
+      "design": "shared 16",
+      "construction": null
+    },
+    {
+      "assessment_criteria_id": "1.1.8",
+      "assessment_criteria_name": "Workforce consultation on sustainability performance",
+      "type": null,
+      "strategy": null,
+      "design": null,
+      "construction": 16
+    },
+    {
+      "assessment_criteria_id": "1.1.9",
+      "assessment_criteria_name": "Communicating best practice",
+      "type": null,
+      "strategy": 5,
+      "design": 5,
+      "construction": 5
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "evidence": [
+    {
+      "assessment_criteria_id": "1.1.1",
+      "assessment_criteria_name": "Principles of sustainable development",
+      "type": "fixed",
+      "evidence_guidance": "Evidence could be a sustainable development policy that cascades into a sustainability framework for the project. Further evidence that this has received active consideration could include design team meeting records, or a sustainability assessment or appraisal report."
+    },
+    {
+      "assessment_criteria_id": "1.1.2",
+      "assessment_criteria_name": "Construction management strategy",
+      "type": "fixed",
+      "evidence_guidance": "Evidence is likely to be the whole construction plan or specific parts of it, in meeting records, or a sustainability assessment or appraisal report on the construction stage."
+    },
+    {
+      "assessment_criteria_id": "1.1.3",
+      "assessment_criteria_name": "Selection process for designers and contractors",
+      "type": null,
+      "evidence_guidance": "Evidence could include supplier appraisals, quality submissions, and information on environmental and social issues during tender stage."
+    },
+    {
+      "assessment_criteria_id": "1.1.4",
+      "assessment_criteria_name": "Environmental and social performance in contracts",
+      "type": "fixed",
+      "evidence_guidance": "Evidence could include output from any contract strategy meetings or reports that show consideration of environmental and social issues as a factor in the choice of procurement method. Evidence could also include key environmental and social performance targets within contract and monitoring/reporting requirements. Simply specifying that a project has applied for a BREEAM Infrastructure assessment, or that a specific rating is achieved, is not considered appropriate evidence."
+    },
+    {
+      "assessment_criteria_id": "1.1.5",
+      "assessment_criteria_name": "Sustainability targets for construction",
+      "type": "fixed",
+      "evidence_guidance": "Evidence could include the setting of targets for achieving or exceeding target levels (such as water quality targets) or specifying targets for completion of work elements to avoid 'closed' seasons (such as nesting birds). Evidence must also be provided to demonstrate that the targets were regularly monitored for the credits to be awarded."
+    },
+    {
+      "assessment_criteria_id": "1.1.6",
+      "assessment_criteria_name": "Environmental targets for key sub-contractors",
+      "type": null,
+      "evidence_guidance": "Evidence for monitoring of targets could include inspection of sub-contractors and continued good performance, toolbox talks, or actual measures such as waste produced or number of environmental incidents."
+    },
+    {
+      "assessment_criteria_id": "1.1.7",
+      "assessment_criteria_name": "Sustainability targets for operation",
+      "type": null,
+      "evidence_guidance": "Evidence needs to demonstrate that such targets have been positively adopted by the design team, for example through project team meeting minutes or equivalent. Although an Environmental Statement (ES) may include targets or equivalent statements on a wide range of issues such as operational noise or air pollution control, the presence of the ES is not considered sufficient evidence here. Evidence could include targets that set numerical figures to manage and reduce carbon and energy emissions during the lifetime of the project, commit to an effective lifecycle waste management, and manage and reduce water use. Other targets could be set for increasing biodiversity or commitments to improve social transport links."
+    },
+    {
+      "assessment_criteria_id": "1.1.8",
+      "assessment_criteria_name": "Workforce consultation on sustainability performance",
+      "type": null,
+      "evidence_guidance": "Evidence could include records of meetings, forums, or toolbox talks, plus site posters, environmental close calls, good practice reporting, or case studies."
+    },
+    {
+      "assessment_criteria_id": "1.1.9",
+      "assessment_criteria_name": "Communicating best practice",
+      "type": null,
+      "evidence_guidance": "Evidence could include briefing sheet(s) published either internally or in industry publications, or presentations to other companies or professional bodies, or involvement with universities and students in related disciplines. All parties can get full credits if the project team has created a single joint case study that meets the criteria."
+    }
+  ]
+}

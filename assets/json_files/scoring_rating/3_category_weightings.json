@@ -1,0 +1,48 @@
+{
+    "category_weightings": [
+        {
+            "category": "Management",
+            "weighting_percentage": 11
+        },
+        {
+            "category": "Resilience",
+            "weighting_percentage": 12
+        },
+        {
+            "category": "Communities and Stakeholders",
+            "weighting_percentage": 11
+        },
+        {
+            "category": "Land Use and Ecology",
+            "weighting_percentage": 12
+        },
+        {
+            "category": "Landscape and Historic Environment",
+            "weighting_percentage": 9
+        },
+        {
+            "category": "Pollution",
+            "weighting_percentage": 8
+        },
+        {
+            "category": "Resources",
+            "weighting_percentage": 16
+        },
+        {
+            "category": "Energy and Carbon (Operational)",
+            "weighting_percentage": 4
+        },
+        {
+            "category": "Energy and Carbon (Construction)",
+            "weighting_percentage": 5
+        },
+        {
+            "category": "Water Use",
+            "weighting_percentage": 4
+        },
+        {
+            "category": "Transport",
+            "weighting_percentage": 8
+        }
+    ]
+}

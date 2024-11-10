@@ -1,0 +1,36 @@
+{
+  "credit_summary": [
+    {
+      "assessment_criteria_id": "1.4.1",
+      "assessment_criteria_name": "Organisational plans and policies for ethical labour practices",
+      "type": "fixed",
+      "strategy": 4,
+      "design": 4,
+      "construction": 4
+    },
+    {
+      "assessment_criteria_id": "1.4.2",
+      "assessment_criteria_name": "Application of ethical labour plans and policies to the project",
+      "type": "fixed",
+      "strategy": "shared up to 8",
+      "design": "shared up to 8",
+      "construction": 10
+    },
+    {
+      "assessment_criteria_id": "1.4.3",
+      "assessment_criteria_name": "Monitoring ethical labour practices during construction",
+      "type": "fixed",
+      "strategy": null,
+      "design": null,
+      "construction": 18
+    },
+    {
+      "assessment_criteria_id": "1.4.4",
+      "assessment_criteria_name": "Independent verification or certification of ethical labour plans and policies",
+      "type": "fixed",
+      "strategy": 4,
+      "design": 4,
+      "construction": 4
+    }
+  ]
+}

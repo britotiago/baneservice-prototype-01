@@ -1,0 +1,172 @@
+{
+  "categories": [
+    {
+      "category_number": "1",
+      "category_name": "Management",
+      "assessment_issues": [
+        {
+          "issue_number": "1.1",
+          "issue_name": "Sustainability leadership"
+        },
+        {
+          "issue_number": "1.2",
+          "issue_name": "Environmental management"
+        },
+        {
+          "issue_number": "1.3",
+          "issue_name": "Responsible construction management"
+        },
+        {
+          "issue_number": "1.4",
+          "issue_name": "Staff and supply chain social governance"
+        },
+        {
+          "issue_number": "1.5",
+          "issue_name": "Whole life costing"
+        }
+      ]
+    },
+    {
+      "category_number": "2",
+      "category_name": "Resilience",
+      "assessment_issues": [
+        {
+          "issue_number": "2.1",
+          "issue_name": "Risk assessment and mitigation"
+        },
+        {
+          "issue_number": "2.2",
+          "issue_name": "Flooding and surface water run-off"
+        },
+        {
+          "issue_number": "2.3",
+          "issue_name": "Future needs"
+        }
+      ]
+    },
+    {
+      "category_number": "3",
+      "category_name": "Communities and stakeholders",
+      "assessment_issues": [
+        {
+          "issue_number": "3.1",
+          "issue_name": "Consultation and engagement"
+        },
+        {
+          "issue_number": "3.2",
+          "issue_name": "Wider social benefits"
+        },
+        {
+          "issue_number": "3.3",
+          "issue_name": "Wider economic benefits"
+        }
+      ]
+    },
+    {
+      "category_number": "4",
+      "category_name": "Land use and ecology",
+      "assessment_issues": [
+        {
+          "issue_number": "4.1",
+          "issue_name": "Land use and value"
+        },
+        {
+          "issue_number": "4.2",
+          "issue_name": "Land contamination and remediation"
+        },
+        {
+          "issue_number": "4.3",
+          "issue_name": "Protection of biodiversity"
+        },
+        {
+          "issue_number": "4.4",
+          "issue_name": "Change and enhancement of biodiversity"
+        },
+        {
+          "issue_number": "4.5",
+          "issue_name": "Long-term management of biodiversity"
+        }
+      ]
+    },
+    {
+      "category_number": "5",
+      "category_name": "Landscape and historic environment",
+      "assessment_issues": [
+        {
+          "issue_number": "5.1",
+          "issue_name": "Landscape and visual impact"
+        },
+        {
+          "issue_number": "5.2",
+          "issue_name": "Heritage assets"
+        }
+      ]
+    },
+    {
+      "category_number": "6",
+      "category_name": "Pollution",
+      "assessment_issues": [
+        {
+          "issue_number": "6.1",
+          "issue_name": "Water pollution"
+        },
+        {
+          "issue_number": "6.2",
+          "issue_name": "Air, noise and light pollution"
+        }
+      ]
+    },
+    {
+      "category_number": "7",
+      "category_name": "Resources",
+      "assessment_issues": [
+        {
+          "issue_number": "7.1",
+          "issue_name": "Strategy for resource efficiency"
+        },
+        {
+          "issue_number": "7.2",
+          "issue_name": "Reducing whole life carbon emissions"
+        },
+        {
+          "issue_number": "7.3",
+          "issue_name": "Environmental impact of construction products"
+        },
+        {
+          "issue_number": "7.4",
+          "issue_name": "Circular use of construction products"
+        },
+        {
+          "issue_number": "7.5",
+          "issue_name": "Responsible sourcing of construction products"
+        },
+        {
+          "issue_number": "7.6",
+          "issue_name": "Construction waste management"
+        },
+        {
+          "issue_number": "7.7",
+          "issue_name": "Energy use"
+        },
+        {
+          "issue_number": "7.8",
+          "issue_name": "Water use"
+        }
+      ]
+    },
+    {
+      "category_number": "8",
+      "category_name": "Transport",
+      "assessment_issues": [
+        {
+          "issue_number": "8.1",
+          "issue_name": "Transport networks"
+        },
+        {
+          "issue_number": "8.2",
+          "issue_name": "Construction logistics"
+        }
+      ]
+    }
+  ]
+}

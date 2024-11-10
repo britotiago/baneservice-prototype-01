@@ -1,0 +1,68 @@
+{
+  "assessment_criteria": [
+    {
+      "criteria_id": "1.4.1",
+      "name": "Organisational plans and policies for ethical labour practices",
+      "description": "The project team organisations (client, design team, principal contractor) each have corporate plans and policies regarding ethical labour practices.",
+      "credits": {
+        "strategy": 4,
+        "design": 4,
+        "construction": 4
+      },
+      "type": "fixed",
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.4.2",
+      "name": "Application of ethical labour plans and policies to the project",
+      "description": "The selection process for (i) the design team, (ii) the principal contractor, and (iii) sub-contractor(s) included performance against their ethical labour plans and policies as one of the evaluation criteria.",
+      "credits": {
+        "strategy": "shared up to 8",
+        "design": "shared up to 8",
+        "construction": 10
+      },
+      "type": "fixed",
+      "sub_credits": [
+        {
+          "role": "The client's procurement of design team organisations",
+          "credits": 2,
+          "assessment_stage": ["Strategy", "Design"]
+        },
+        {
+          "role": "The client's procurement of the principal contractor",
+          "credits": 6,
+          "assessment_stage": ["Strategy", "Design"]
+        },
+        {
+          "role": "The principal contractor's procurement of sub-contractors",
+          "credits": 10,
+          "assessment_stage": ["Construction"]
+        }
+      ]
+    },
+    {
+      "criteria_id": "1.4.3",
+      "name": "Monitoring ethical labour practices during construction",
+      "description": "The principal contractor's plans and policies regarding ethical labour practices have been implemented and performance against them has been regularly monitored throughout the construction stage.",
+      "credits": {
+        "strategy": null,
+        "design": null,
+        "construction": 18
+      },
+      "type": "fixed",
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.4.4",
+      "name": "Independent verification or certification of ethical labour plans and policies",
+      "description": "The project team organisations (client, design team, principal contractor) have each been verified or certified by an independent third party to a recognised ethical labour scheme.",
+      "credits": {
+        "strategy": 4,
+        "design": 4,
+        "construction": 4
+      },
+      "type": "fixed",
+      "sub_credits": null
+    }
+  ]
+}

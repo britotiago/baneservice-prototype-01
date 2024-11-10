@@ -1,0 +1,49 @@
+{
+    "prerequisites": [
+        {
+            "category": "Land Use and Ecology",
+            "issue_number": "4.3",
+            "issue_name": "Protection of biodiversity",
+            "prerequisites": [
+                {
+                    "criteria_number": "4.3.1",
+                    "criteria_name": "Surveys for protected species"
+                },
+                {
+                    "criteria_number": "4.3.2",
+                    "criteria_name": "Injurious or invasive species"
+                }
+            ]
+        },
+        {
+            "category": "Resources",
+            "issue_number": "7.5",
+            "issue_name": "Responsible sourcing of construction products",
+            "prerequisites": [
+                {
+                    "criteria_number": "7.5.1",
+                    "criteria_name": "Legal and sustainable timber"
+                }
+            ]
+        },
+        {
+            "category": "Resources",
+            "issue_number": "7.6",
+            "issue_name": "Construction waste management",
+            "prerequisites": [
+                {
+                    "criteria_number": "7.6.1",
+                    "criteria_name": "Duty of care (fixed)"
+                },
+                {
+                    "criteria_number": "7.6.2",
+                    "criteria_name": "Permitting for waste treated or used on site"
+                },
+                {
+                    "criteria_number": "7.6.3",
+                    "criteria_name": "Hazardous waste"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "assessment_criteria": [
+    {
+      "criteria_id": "1.5.1",
+      "name": "Whole life costing",
+      "description": "The Client and the design team have completed a whole life cost assessment for the project in line with ISO 15686-5:2017 (or country-specific equivalents). The whole life cost assessment has influenced the design of the project.",
+      "credits": {
+        "strategy": 8,
+        "design": 19,
+        "construction": null
+      },
+      "type": "fixed",
+      "sub_credits": null
+    }
+  ]
+}

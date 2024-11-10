@@ -1,0 +1,16 @@
+{
+    "assessment_stages": [
+        {
+            "stage_name": "Strategy",
+            "description": "Initial strategic planning stage, involving the alignment of project goals with sustainability objectives."
+        },
+        {
+            "stage_name": "Design",
+            "description": "Detailed design or interim design stage, where design specifics are assessed."
+        },
+        {
+            "stage_name": "Construction",
+            "description": "The construction stage, involving the actual build and implementation phase."
+        }
+    ]
+}

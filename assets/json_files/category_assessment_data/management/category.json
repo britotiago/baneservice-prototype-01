@@ -1,0 +1,35 @@
+{
+  "category": {
+    "id": "1",
+    "name": "Management",
+    "summary": "The Management category considers how sustainability issues are incorporated into the overall management of the project. It covers the principles of sustainable development and the management of environmental and social performance throughout the planning, design, and construction of a project.",
+    "category_summary_table": [
+      {
+        "assessment_issue_id": "1.1",
+        "assessment_issue_name": "Sustainability leadership",
+        "credits_available": 173
+      },
+      {
+        "assessment_issue_id": "1.2",
+        "assessment_issue_name": "Environmental management",
+        "credits_available": 254
+      },
+      {
+        "assessment_issue_id": "1.3",
+        "assessment_issue_name": "Responsible construction management",
+        "credits_available": 36
+      },
+      {
+        "assessment_issue_id": "1.4",
+        "assessment_issue_name": "Staff and supply chain social governance",
+        "credits_available": 60
+      },
+      {
+        "assessment_issue_id": "1.5",
+        "assessment_issue_name": "Whole life costing",
+        "credits_available": 27
+      }
+    ],
+    "total_credits_available": 550
+  }
+}

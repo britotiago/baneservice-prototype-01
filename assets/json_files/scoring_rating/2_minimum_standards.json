@@ -1,0 +1,53 @@
+{
+    "minimum_standards": [
+        {
+            "rating_level": "Outstanding",
+            "assessment_issues": [
+                {
+                    "issue_number": "2.1",
+                    "issue_name": "Risk assessment and mitigation",
+                    "assessment_criteria": [
+                        {
+                            "criteria_number": "2.1.2",
+                            "criteria_name": "Identifying dependencies",
+                            "minimum_standard": "All credits for 2.1.2 and 2.1.3 achieved (84 credits)"
+                        }
+                    ]
+                },
+                {
+                    "issue_number": "4.4",
+                    "issue_name": "Change and enhancement of biodiversity",
+                    "assessment_criteria": [
+                        {
+                            "criteria_number": "4.4.1",
+                            "criteria_name": "Change in ecological value",
+                            "minimum_standard": "Net loss of ecological value must not occur (20 credits)"
+                        }
+                    ]
+                },
+                {
+                    "issue_number": "7.2",
+                    "issue_name": "Reducing whole life carbon emissions",
+                    "assessment_criteria": [
+                        {
+                            "criteria_number": "7.2.2",
+                            "criteria_name": "Independent third-party certification of carbon management",
+                            "minimum_standard": "Carbon management process independently third-party certified to PAS 2080 (9/18/27 credits)"
+                        }
+                    ]
+                },
+                {
+                    "issue_number": "7.4",
+                    "issue_name": "Circular use of construction products",
+                    "assessment_criteria": [
+                        {
+                            "criteria_number": "7.4.2",
+                            "criteria_name": "Business models for a circular economy \u2013 implemented",
+                            "minimum_standard": "At least one business model has been implemented (2 credits)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

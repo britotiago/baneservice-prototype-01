@@ -1,0 +1,28 @@
+{
+  "evidence": [
+    {
+      "assessment_criteria_id": "1.4.1",
+      "assessment_criteria_name": "Organisational plans and policies for ethical labour practices",
+      "type": "fixed",
+      "evidence_guidance": "Evidence is likely to be found in company policies, reports, and action plans. Evidence could also be an ETI principles of implementation report or a self-assessment using the Ethical Labour Sourcing Standard (ELS). Evidence must demonstrate that the organisation's plans and policies cover all the items listed in the guidance (as a minimum)."
+    },
+    {
+      "assessment_criteria_id": "1.4.2",
+      "assessment_criteria_name": "Application of ethical labour plans and policies to the project",
+      "type": "fixed",
+      "evidence_guidance": "Evidence will be in the form of tender specification documents outlining the requirements tenderers should demonstrate, evaluation documents that show how consideration has been given to ethical labour issues, and contractual requirements for appointed organisations."
+    },
+    {
+      "assessment_criteria_id": "1.4.3",
+      "assessment_criteria_name": "Monitoring ethical labour practices during construction",
+      "type": "fixed",
+      "evidence_guidance": "Evidence is likely to be in the form of routine data gathering and reporting."
+    },
+    {
+      "assessment_criteria_id": "1.4.4",
+      "assessment_criteria_name": "Independent verification or certification of ethical labour plans and policies",
+      "type": "fixed",
+      "evidence_guidance": "Evidence could include an organisation's statement of verification against the Ethical Labour Sourcing Standard (ELS) or an issued certificate."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "credit_summary": [
+    {
+      "assessment_criteria_id": "1.3.1",
+      "assessment_criteria_name": "Considerate behaviour",
+      "type": "fixed",
+      "strategy": "shared 16",
+      "design": "shared 16",
+      "construction": "shared 16"
+    },
+    {
+      "assessment_criteria_id": "1.3.2",
+      "assessment_criteria_name": "Independent assessment of considerate behaviour",
+      "type": null,
+      "strategy": null,
+      "design": null,
+      "construction": 5
+    },
+    {
+      "assessment_criteria_id": "1.3.3",
+      "assessment_criteria_name": "Visual impact during construction",
+      "type": "fixed",
+      "strategy": null,
+      "design": null,
+      "construction": 15
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "assessment_criteria": [
+    {
+      "criteria_id": "1.2.1",
+      "name": "Environmental impacts and benefits assessment",
+      "description": "The Client or the Designers have undertaken an environmental impacts and benefits assessment of the project on a wider scope than just the project owners' interests and appropriate to the nature, scale, design life and location of the project, including assessments of possible enhancements to the local environment.",
+      "credits": {
+        "strategy": 8,
+        "design": null,
+        "construction": null
+      },
+      "type": "fixed",
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.2.2",
+      "name": "Implementing environmental enhancements",
+      "description": "The enhancements identified in the environmental impacts and benefits assessment have been delivered in the design alongside those for environmental mitigation and compensation.",
+      "credits": {
+        "strategy": "up to 24",
+        "design": null,
+        "construction": null
+      },
+      "type": null,
+      "sub_credits": [
+        {
+          "description": "25% or more of identified enhancements delivered",
+          "credits": 6
+        },
+        {
+          "description": "50% or more of identified enhancements delivered",
+          "credits": 12
+        },
+        {
+          "description": "75% or more of identified enhancements delivered",
+          "credits": 18
+        },
+        {
+          "description": "90% or more of identified enhancements delivered",
+          "credits": 24
+        }
+      ]
+    },
+    {
+      "criteria_id": "1.2.3",
+      "name": "Supporting environmental benefits in contracts",
+      "description": "Where appropriate, actions to support the results of the environmental impacts and benefits assessments have been included within relevant contract documentation.",
+      "credits": {
+        "strategy": 8,
+        "design": null,
+        "construction": null
+      },
+      "type": null,
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.2.4",
+      "name": "Environmental impacts during construction",
+      "description": "The Construction Team has undertaken an environmental impacts and benefits assessment of the construction stage of the project and used the results in the development and implementation of the construction management plan (CMP).",
+      "credits": {
+        "strategy": null,
+        "design": null,
+        "construction": "up to 25"
+      },
+      "type": "fixed",
+      "sub_credits": [
+        {
+          "description": "Results from an environmental impacts and benefits assessment have been used in the development of the construction management plan.",
+          "credits": 9
+        },
+        {
+          "description": "Environmental aspects of the developed construction management plan have been implemented.",
+          "credits": 25
+        }
+      ]
+    },
+    {
+      "criteria_id": "1.2.5",
+      "name": "Environmental and social aspects assessment",
+      "description": "There was a documented commitment to consider and assess the environmental and social aspects of the project.",
+      "credits": {
+        "strategy": 8,
+        "design": 4,
+        "construction": 4
+      },
+      "type": "fixed",
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.2.6",
+      "name": "Co-ordination of environment and social aspects",
+      "description": "A member of the project team was appointed as responsible for co-ordinating the management of the environmental and social aspects of the project and was aware of the duties and responsibilities involved.",
+      "credits": {
+        "strategy": 8,
+        "design": 8,
+        "construction": 8
+      },
+      "type": "fixed",
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.2.7",
+      "name": "Identification and prioritisation of impacts",
+      "description": "The environmental risks, impacts, and opportunities for environmental enhancements, and the associated social issues, have been identified and clearly recorded for each stage and prioritised according to significance.",
+      "credits": {
+        "strategy": "up to 13",
+        "design": "up to 13",
+        "construction": "up to 13"
+      },
+      "type": "fixed",
+      "sub_credits": [
+        {
+          "description": "Identified and clearly recorded for each stage.",
+          "credits": 8
+        },
+        {
+          "description": "Prioritised according to significance.",
+          "credits": 13
+        }
+      ]
+    },
+    {
+      "criteria_id": "1.2.8",
+      "name": "Sustainability management mechanisms",
+      "description": "Appropriate mechanisms have been put in place to manage the project's environmental and social risks, impacts and opportunities.",
+      "credits": {
+        "strategy": 4,
+        "design": 8,
+        "construction": 8
+      },
+      "type": "fixed",
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.2.9",
+      "name": "Implementation of mechanisms",
+      "description": "Regular checks have been made to ensure that the sustainability management mechanisms have been implemented.",
+      "credits": {
+        "strategy": 4,
+        "design": 8,
+        "construction": 8
+      },
+      "type": "fixed",
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.2.10",
+      "name": "Success of the mechanisms",
+      "description": "The results (success or otherwise) of the implementation of the sustainability management mechanisms have been assessed.",
+      "credits": {
+        "strategy": 4,
+        "design": 8,
+        "construction": 8
+      },
+      "type": "fixed",
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.2.11",
+      "name": "Sustainability training",
+      "description": "At each project stage, there has been a programme of training on environmental and social issues relevant to the project delivered at an appropriate level for those engaged in the project.",
+      "credits": {
+        "strategy": 10,
+        "design": 10,
+        "construction": 10
+      },
+      "type": "fixed",
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.2.12",
+      "name": "Project team communications",
+      "description": "At each project stage, all those directly engaged in the project have been informed of the significant environmental impacts and opportunities, and associated social issues, of their part or stage of the project.",
+      "credits": {
+        "strategy": 4,
+        "design": 8,
+        "construction": 8
+      },
+      "type": "fixed",
+      "sub_credits": null
+    }
+  ]
+}

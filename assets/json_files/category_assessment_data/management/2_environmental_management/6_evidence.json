@@ -1,0 +1,76 @@
+{
+  "evidence": [
+    {
+      "assessment_criteria_id": "1.2.1",
+      "assessment_criteria_name": "Environmental impacts and benefits assessment",
+      "type": "fixed",
+      "evidence_guidance": "Evidence of the analysis could be in the form of an Environmental Statement (ES), environmental assessment report, or environmental commentary prepared during development of the project and submitted for the planning and consents processes. It will be necessary to demonstrate that the scoping and boundary setting for the assessments were carefully set to maximise the chances of significant adverse impacts that occur remotely from the project being included."
+    },
+    {
+      "assessment_criteria_id": "1.2.2",
+      "assessment_criteria_name": "Implementing environmental enhancements",
+      "type": null,
+      "evidence_guidance": "Evidence is likely to be in the form of design drawings and design details but will also need to be linked to the environmental impacts and benefits assessment and demonstrate that the design incorporates the enhancements identified."
+    },
+    {
+      "assessment_criteria_id": "1.2.3",
+      "assessment_criteria_name": "Supporting environmental benefits in contracts",
+      "type": null,
+      "evidence_guidance": "Evidence will be relevant contract clauses."
+    },
+    {
+      "assessment_criteria_id": "1.2.4",
+      "assessment_criteria_name": "Environmental impacts during construction",
+      "type": "fixed",
+      "evidence_guidance": "Evidence will be in the reports of the assessments and in the CMP or equivalent."
+    },
+    {
+      "assessment_criteria_id": "1.2.5",
+      "assessment_criteria_name": "Environmental and social aspects assessment",
+      "type": "fixed",
+      "evidence_guidance": "Evidence could include a written commitment from the Project's Directors, a Project Environmental Policy Statement, a Project Sustainability Statement, or objectives and targets. However, a general Company Environmental Policy Statement is not sufficient, unless it includes a specific commitment to consider and assess environmental and social aspects for every project. Additionally, specifying that a project has applied for a BREEAM Infrastructure assessment is not considered appropriate evidence."
+    },
+    {
+      "assessment_criteria_id": "1.2.6",
+      "assessment_criteria_name": "Co-ordination of environment and social aspects",
+      "type": "fixed",
+      "evidence_guidance": "Evidence could be a formal note of the appointment; records of meetings where the role is clearly set out; reports from the identified person to the project team; or an organogram or similar identifying roles and responsibilities within the project team or project management structure."
+    },
+    {
+      "assessment_criteria_id": "1.2.7",
+      "assessment_criteria_name": "Identification and prioritisation of impacts",
+      "type": "fixed",
+      "evidence_guidance": "Evidence could be a report on the impact and opportunity assessments, minutes of team meetings at which the process was undertaken, or the charts prepared after such discussions. Evidence for the score in the Strategy and Design columns in a Whole Project Assessment or Strategy & Design Assessment must demonstrate that this work has been undertaken or specified by the Client and the outcomes accepted by them."
+    },
+    {
+      "assessment_criteria_id": "1.2.8",
+      "assessment_criteria_name": "Sustainability management mechanisms",
+      "type": "fixed",
+      "evidence_guidance": "Evidence could be procedures, flowcharts, checklists or documented control measures, and would form part of an Environmental Management System (EMS) if there were one in place. However, an EMS is not a prerequisite and, in smaller companies or projects, evidence could be minutes of meetings at which these issues, and the mechanisms to be used, are discussed and agreed. Appropriate mechanisms could have been put in place without the existence of a full EMS. However, they do need to be documented in some form and should clearly state the steps to be taken and any roles and responsibilities to be assumed. They also need to match the level of complexity of environmental issues relevant to the project. The output from an environmental impact assessment (EIA) that included discussion of how the project’s environmental issues, impacts and opportunities are to be managed would not be sufficient evidence to gain the credits for this requirement. Evidence is required that such EIA outputs have been translated into action."
+    },
+    {
+      "assessment_criteria_id": "1.2.9",
+      "assessment_criteria_name": "Implementation of mechanisms",
+      "type": "fixed",
+      "evidence_guidance": "Evidence could be site review meeting minutes, site inspections, checklists, or audit reports."
+    },
+    {
+      "assessment_criteria_id": "1.2.10",
+      "assessment_criteria_name": "Success of the mechanisms",
+      "type": "fixed",
+      "evidence_guidance": "Evidence could include actions shown as closed off in minutes, close-out of audit non-conformance reports, or other evidence demonstrating completion of actions arising from site inspections as well as evidence that a review that took place routinely as opposed to being only as a result of a check that has taken place in 1.2.9. For instance, a standing item in project progress meetings or reports, which routinely review environmental and social performance and the success of control mechanisms established, would be acceptable. Evidence could also include the achievement of appropriate targets set for environmental and social performance."
+    },
+    {
+      "assessment_criteria_id": "1.2.11",
+      "assessment_criteria_name": "Sustainability training",
+      "type": "fixed",
+      "evidence_guidance": "Evidence could include records of site inductions or toolbox talks, more- formal training workshops for the project, briefings or other training on specific issues for the project (such as on otter holt construction or use of new equipment), plus workshops with the Client, Designer and project team members to review and establish environmental risk."
+    },
+    {
+      "assessment_criteria_id": "1.2.12",
+      "assessment_criteria_name": "Project team communications",
+      "type": "fixed",
+      "evidence_guidance": "Evidence for the Client could include communication of environmental and social impacts and opportunities within tender documents or specifications. For the Designer, this could include how they have briefed their team on the environmental and social issues that require consideration or provision of information in the design drawings or risk register. For the Contractor, it could include the incorporation of environmental mitigation actions in method statements, toolbox talks or other site briefings or inductions communicating the requirements of the SEMP, information posted via site information boards or similar. For any stage, it could also include more project workshops, such as on value management and value engineering, that includes consideration of the environmental and social impacts and opportunities on the project."
+    }
+  ]
+}

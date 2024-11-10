@@ -1,0 +1,146 @@
+{
+  "assessment_criteria": [
+    {
+      "criteria_id": "1.1.1",
+      "name": "Principles of sustainable development",
+      "description": "The project team has actively considered the principles of sustainable development in the planning, design, and construction of the project.",
+      "credits": {
+        "strategy": 19,
+        "design": 12,
+        "construction": 4
+      },
+      "type": "fixed",
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.1.2",
+      "name": "Construction management strategy",
+      "description": "The project team has actively adopted a sustainability-driven approach to the development of the construction management plan for the project.",
+      "credits": {
+        "strategy": null,
+        "design": 5,
+        "construction": 6
+      },
+      "type": "fixed",
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.1.3",
+      "name": "Selection process for designers and contractors",
+      "description": "The selection process for (i) the principal Designer, (ii) the principal Contractor, and (iii) the key sub-contractor(s) included past environmental and social performance as one of the evaluation criteria.",
+      "credits": {
+        "strategy": "shared up to 24",
+        "design": "shared up to 24",
+        "construction": 12
+      },
+      "type": null,
+      "sub_credits": [
+        {
+          "role": "Principal Designer",
+          "credits": 12,
+          "assessment_stage": ["Strategy", "Design"]
+        },
+        {
+          "role": "Principal Contractor",
+          "credits": 12,
+          "assessment_stage": ["Strategy", "Design"]
+        },
+        {
+          "role": "Key sub-contractor(s)",
+          "credits": 12,
+          "assessment_stage": ["Construction"]
+        }
+      ]
+    },
+    {
+      "criteria_id": "1.1.4",
+      "name": "Environmental and social performance in contracts",
+      "description": "The contract requirements for the Designers and Contractors expressly included: achievement of specified environmental and social performance; and a requirement to monitor and report on environmental and social performance during the contract.",
+      "credits": {
+        "strategy": 20,
+        "design": null,
+        "construction": null
+      },
+      "type": "fixed",
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.1.5",
+      "name": "Sustainability targets for construction",
+      "description": "During the concept and design process, specific targets have been set for the environmental and social performance of the project during construction. During the construction stage, progress towards the targets has been monitored, reported, and shared with the staff and workforce.",
+      "credits": {
+        "strategy": null,
+        "design": "shared up to 12",
+        "construction": "shared up to 12"
+      },
+      "type": "fixed",
+      "sub_credits": [
+        {
+          "description": "Targets set, but no formal monitoring in place.",
+          "credits": 6
+        },
+        {
+          "description": "Targets set and progress monitored, reported, and shared at the construction stage.",
+          "credits": 12
+        }
+      ]
+    },
+    {
+      "criteria_id": "1.1.6",
+      "name": "Environmental targets for key sub-contractors",
+      "description": "Relevant key environmental objectives and performance targets have been set for key sub-contractors and they have been monitored against performance.",
+      "credits": {
+        "strategy": null,
+        "design": null,
+        "construction": "up to 12"
+      },
+      "type": null,
+      "sub_credits": [
+        {
+          "description": "Targets set, but no formal monitoring in place.",
+          "credits": 6
+        },
+        {
+          "description": "Targets set and progress monitored, reported, and shared with the staff.",
+          "credits": 12
+        }
+      ]
+    },
+    {
+      "criteria_id": "1.1.7",
+      "name": "Sustainability targets for operation",
+      "description": "During the design process, specific targets have been set for the environmental and social performance of the project during operation and there is a monitoring programme in place for the operational phase.",
+      "credits": {
+        "strategy": "shared 16",
+        "design": "shared 16",
+        "construction": null
+      },
+      "type": null,
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.1.8",
+      "name": "Workforce consultation on sustainability performance",
+      "description": "Ongoing engagement or two-way dialogue between project staff and the construction workforce has been undertaken with regards to management of environmental and social issues and the suggestions from these discussions have been considered in the construction stage.",
+      "credits": {
+        "strategy": null,
+        "design": null,
+        "construction": 16
+      },
+      "type": null,
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.1.9",
+      "name": "Communicating best practice",
+      "description": "At each project stage, the project team has shared any innovation or best practice in sustainability-driven management and practice with other parts of the civil engineering sector or other relevant sectors.",
+      "credits": {
+        "strategy": 5,
+        "design": 5,
+        "construction": 5
+      },
+      "type": null,
+      "sub_credits": null
+    }
+  ]
+}

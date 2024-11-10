@@ -1,0 +1,16 @@
+{
+    "project_types": [
+        {
+            "type_name": "Civil Engineering",
+            "description": "Projects involving infrastructure like roads, railways, ports, wind farms, flood alleviation schemes, and utilities."
+        },
+        {
+            "type_name": "Landscaping",
+            "description": "Public realm projects including landscaping and ecological enhancements."
+        },
+        {
+            "type_name": "Specialist Projects",
+            "description": "Projects such as demolition or remediation works."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "assessment_scope": [
+    {
+      "assessment_criteria_id": "1.2.2",
+      "assessment_criteria_name": "Implementing environmental enhancements",
+      "scoping_guidance": "It is unlikely that 1.2.2 and 1.2.3 will ever be scoped out but it is possible that an Environmental Statement may not contain any promises of enhancements and produce no matters that need including in contract documentation."
+    },
+    {
+      "assessment_criteria_id": "1.2.3",
+      "assessment_criteria_name": "Supporting environmental benefits in contracts",
+      "scoping_guidance": "It is unlikely that 1.2.2 and 1.2.3 will ever be scoped out but it is possible that an Environmental Statement may not contain any promises of enhancements and produce no matters that need including in contract documentation."
+    }
+  ]
+}

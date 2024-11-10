@@ -1,0 +1,24 @@
+{
+  "guidance": [
+    {
+      "assessment_criteria_id": "1.4.1",
+      "assessment_criteria_name": "Organisational plans and policies for ethical labour practices",
+      "guidance_text": "As a minimum, the following items - taken from the Ethical Trading Initiative (ETI) Base Code should be reflected in the organisation's plans, policies, or procedures regarding labour practices:\n\n1. Employment is freely chosen\n2. Freedom of association and the right to collective bargaining are respected\n3. Working conditions are safe and hygienic\n4. Child labour shall not be used\n5. Living wages are paid\n6. Working hours are not excessive\n7. No discrimination is practiced\n8. Regular employment is provided\n9. No harsh or inhumane treatment is allowed\n\nAnd the following additional items, not included in the ETI Base Code, should also be included as a minimum:\n\na. Avoidance of bribery and corruption\nb. Promotion and support for learning and development\nc. Flexible working practices to encourage and allow a healthy and practical life balance\n\nThe ETI Base Code is founded on the conventions of the International Labour Organisation (ILO) and is an internationally recognised code of good labour practice. For more information about the ETI Base Code visit www.ethicaltrade.org/eti-base-code.\n\nThe organisation's plans and policies must define how the organisation has interpreted each of the above items and how they will be monitored and enforced for each country/region it operates in.\n\nThe named individual will be someone senior enough within the organisation to be able to act to monitor and rectify non-compliance. They must be named, and their specific responsibilities defined in the plans and policies."
+    },
+    {
+      "assessment_criteria_id": "1.4.2",
+      "assessment_criteria_name": "Application of ethical labour plans and policies to the project",
+      "guidance_text": "During the selection process for the design team and principal contractor, the client should require potential project team organisations to provide an implementation plan showing how their relevant plans and policies (see 1.4.1) will be specifically met on the project. The organisation's implementation plans should then be included in their appointment contract.\n\nAt the construction stage, the principal contractor should require potential sub-contractor organisations to provide an implementation plan showing how the principal contractor's relevant plans and policies (see 1.4.1) will be specifically met on the project. The sub-contractor's implementation plans should then be included in their appointment contract."
+    },
+    {
+      "assessment_criteria_id": "1.4.3",
+      "assessment_criteria_name": "Monitoring ethical labour practices during construction",
+      "guidance_text": "As a minimum, the principal contractor must monitor performance against their plans and policies for ethical labour practices for all workers on site during construction.\n\nThese credits can only be awarded if the construction stage credits in 1.4.1 have been awarded."
+    },
+    {
+      "assessment_criteria_id": "1.4.4",
+      "assessment_criteria_name": "Independent verification or certification of ethical labour plans and policies",
+      "guidance_text": "Third party verification or certification at an organisational level is considered best practice and provides assurance that policies are likely to be applied at a project level.\n\nBREEAM Infrastructure currently recognises the ethical labour schemes listed in the table below. If an organisation is verified or certified to an ethical labour scheme not listed below, please contact BRE Global as soon as possible to apply for recognition.\n\n| Location | Scheme name | Minimum level |\n|----------|-------------|---------------|\n| UK       | BES 6002 Ethical Labour Sourcing Standard | Baseline Maturity in all 12 issue areas |"
+    }
+  ]
+}

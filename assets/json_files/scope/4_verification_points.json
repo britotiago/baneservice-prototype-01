@@ -1,0 +1,65 @@
+{
+    "verification_points": [
+        {
+            "assessment_type": "Whole Project",
+            "verification_stages": [
+                {
+                    "stage": "Strategy",
+                    "verification_type": "Optional"
+                },
+                {
+                    "stage": "Design",
+                    "verification_type": "Optional"
+                },
+                {
+                    "stage": "Construction",
+                    "verification_type": "Mandatory"
+                }
+            ]
+        },
+        {
+            "assessment_type": "Strategy & Design",
+            "verification_stages": [
+                {
+                    "stage": "Strategy",
+                    "verification_type": "Optional"
+                },
+                {
+                    "stage": "Design",
+                    "verification_type": "Mandatory"
+                }
+            ]
+        },
+        {
+            "assessment_type": "Design Only",
+            "verification_stages": [
+                {
+                    "stage": "Design",
+                    "verification_type": "Mandatory"
+                }
+            ]
+        },
+        {
+            "assessment_type": "Design & Construction",
+            "verification_stages": [
+                {
+                    "stage": "Design",
+                    "verification_type": "Optional"
+                },
+                {
+                    "stage": "Construction",
+                    "verification_type": "Mandatory"
+                }
+            ]
+        },
+        {
+            "assessment_type": "Construction Only",
+            "verification_stages": [
+                {
+                    "stage": "Construction",
+                    "verification_type": "Mandatory"
+                }
+            ]
+        }
+    ]
+}

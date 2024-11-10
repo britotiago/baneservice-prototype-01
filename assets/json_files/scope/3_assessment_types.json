@@ -1,0 +1,43 @@
+{
+    "assessment_types": [
+        {
+            "type_name": "Whole Project",
+            "applicable_stages": [
+                "Strategy",
+                "Design",
+                "Construction"
+            ],
+            "description": "Joint assessment by the Client, Designer, and Contractor, with mandatory verification at the end of construction."
+        },
+        {
+            "type_name": "Strategy & Design",
+            "applicable_stages": [
+                "Strategy",
+                "Design"
+            ],
+            "description": "Joint assessment by the Client and Designer, available before construction starts."
+        },
+        {
+            "type_name": "Design Only",
+            "applicable_stages": [
+                "Design"
+            ],
+            "description": "Assessment for the lead Designer to gain recognition without involving other parties."
+        },
+        {
+            "type_name": "Design & Construction",
+            "applicable_stages": [
+                "Design",
+                "Construction"
+            ],
+            "description": "Joint assessment by the lead Contractor and Designer, where the Client does not participate."
+        },
+        {
+            "type_name": "Construction Only",
+            "applicable_stages": [
+                "Construction"
+            ],
+            "description": "Assessment for the lead Contractor to gain recognition without the involvement of the Client and Designer."
+        }
+    ]
+}

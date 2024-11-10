@@ -1,0 +1,10 @@
+{
+  "evidence": [
+    {
+      "assessment_criteria_id": "1.5.1",
+      "assessment_criteria_name": "Whole life costing",
+      "type": "fixed",
+      "evidence_guidance": "Evidence will need to be in the form of a report from the process, plus evidence of how this has influenced the design of the project."
+    }
+  ]
+}

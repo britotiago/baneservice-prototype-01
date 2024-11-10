@@ -1,0 +1,24 @@
+{
+    "system_boundaries": [
+        {
+            "boundary_name": "Geographical Limits",
+            "description": "Explicit geographical, temporal, or functional limits for the assessment."
+        },
+        {
+            "boundary_name": "National Standards",
+            "description": "Compliance with national or international standards relevant to the project."
+        },
+        {
+            "boundary_name": "BREEAM Methodologies",
+            "description": "Specific BREEAM Infrastructure methodologies applicable to the assessment."
+        },
+        {
+            "boundary_name": "Stakeholder Consultation",
+            "description": "Consultation with relevant stakeholders to define boundaries."
+        },
+        {
+            "boundary_name": "Qualified Professional Judgement",
+            "description": "Deferment to the judgement of a suitably qualified professional or BREEAM Assessor."
+        }
+    ]
+}

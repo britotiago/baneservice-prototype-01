@@ -1,0 +1,29 @@
+{
+  "assessment_scope": [
+    {
+      "assessment_criteria_id": "1.1.3",
+      "assessment_criteria_name": "Selection process for designers and contractors",
+      "scoping_guidance": "Scope out for Design Only Assessments where the Designer has no input to the Contractor selection process."
+    },
+    {
+      "assessment_criteria_id": "1.1.6",
+      "assessment_criteria_name": "Environmental targets for key sub-contractors",
+      "scoping_guidance": "There may be circumstances where it is appropriate to scope out this criteria, for example if there are no sub-contractors involved."
+    },
+    {
+      "assessment_criteria_id": "1.1.7",
+      "assessment_criteria_name": "Sustainability targets for operation",
+      "scoping_guidance": "Scope out if the scheme concerned is intrinsically not 'operable', such as flood defence banks."
+    },
+    {
+      "assessment_criteria_id": "1.1.8",
+      "assessment_criteria_name": "Workforce consultation on sustainability performance",
+      "scoping_guidance": "The decision to scope out will depend on the nature, scale, location and context of the project, and on the interests and responsibilities of the parties to the project."
+    },
+    {
+      "assessment_criteria_id": "1.1.9",
+      "assessment_criteria_name": "Communicating best practice",
+      "scoping_guidance": "The decision to scope out will depend on the nature, scale, location and context of the project, and on the interests and responsibilities of the parties to the project."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "credit_summary": [
+    {
+      "assessment_criteria_id": "1.5.1",
+      "assessment_criteria_name": "Whole life costing",
+      "type": "fixed",
+      "strategy": 8,
+      "design": 19,
+      "construction": null
+    }
+  ]
+}

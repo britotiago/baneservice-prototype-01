@@ -1,0 +1,49 @@
+{
+  "assessment_criteria": [
+    {
+      "criteria_id": "1.3.1",
+      "name": "Considerate behaviour",
+      "description": "The project has a policy or code of practice regarding considerate behaviour by construction companies and the policy has been communicated to all appropriate people working on the project and embedded in the project's management system.",
+      "credits": {
+        "strategy": "shared 16",
+        "design": "shared 16",
+        "construction": "shared 16"
+      },
+      "type": "fixed",
+      "sub_credits": [
+        {
+          "description": "Communicated to all appropriate people working on the project.",
+          "credits": 16
+        },
+        {
+          "description": "Embedded in the project's management system.",
+          "credits": 16
+        }
+      ]
+    },
+    {
+      "criteria_id": "1.3.2",
+      "name": "Independent assessment of considerate behaviour",
+      "description": "The implementation of the project's policy or code of practice regarding considerate behaviour has been independently assessed and judged to be at least satisfactory.",
+      "credits": {
+        "strategy": null,
+        "design": null,
+        "construction": 5
+      },
+      "type": null,
+      "sub_credits": null
+    },
+    {
+      "criteria_id": "1.3.3",
+      "name": "Visual impact during construction",
+      "description": "Measures have been taken to minimise the adverse visual impact of the site during the construction stage.",
+      "credits": {
+        "strategy": null,
+        "design": null,
+        "construction": 15
+      },
+      "type": "fixed",
+      "sub_credits": null
+    }
+  ]
+}
